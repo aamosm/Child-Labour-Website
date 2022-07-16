@@ -1,1 +1,0 @@
-# aamosm.github.io
