@@ -1,7 +1,3 @@
+A static web application designed to raise awareness about child labour issues. This project served as a foundational exercise in web development, focusing on content structure and basic styling.
 
-
-A website I made on Child Labour -
-
-It has been shifted to another account to host as other web projects are being made here.
-
-link - [aaamosm.github.io](https://aaamosm.github.io)
+I plan on remaking it. It is old and redundant now
